@@ -1,0 +1,108 @@
+body{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form {
+    height: 1100px;
+    width: 600px;
+    margin: auto;
+    font-size: 28px;
+}
+.tui{
+    color: red;
+    font-size: 36px;
+    font-family: cursive;
+}
+.title-div{
+    height: 169px;
+    width: 547px;
+    background-color: palegoldenrod;
+    margin: 44px;
+    border-radius: 20px;
+    border-top: 8px solid green;
+    border-bottom: 8px solid green;
+    padding: 28px;
+}
+.required {
+    font-size: 30px;
+    padding: 7px;
+}
+.name-div{
+    height: 150px;
+    width: 650px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 8px;
+}
+.name{
+    padding-top: 20px;
+    padding-left: 22px;
+    padding-bottom: 25px;
+}
+.input-div {
+    padding-top: 4px;
+    padding-left: 25px;
+}
+.input-div input{
+    width: 300px;
+    border: 0;
+    outline: 0;
+    border-bottom: 1.5px solid red;
+    font-size: 15px;
+}
+
+.college-div{
+    height: 150px;
+    width: 650px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+.email-div{
+    height: 150px;
+    width: 650px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 8px;
+}
+.mobile-div{
+    height: 150px;
+    width: 650px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.btn {
+    border: none;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.last-div h2 {
+    text-align: center;
+    padding-top: 50px;
+    color: crimson;
+    font-weight: 200;
+}
+.term{
+    font-size: 16px;
+    padding-left: 65px;
+    padding-top: 5px;
+    position: absolute;
+}
+
+.never {
+    padding-left: 15px;
+    font-size: 16px;
+    padding-top: 70px;
+    font-weight: 400;
+}
+
